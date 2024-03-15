@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/MohEsmail143">
-    <img src="https://readme-typing-svg.demolab.com?lines=Mohamed+Esmail;Big+Data+Engineer;Aspiring+Data+Scientist" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=FFFFFF&multiline=true&random=false&width=435&height=75&lines=Mohamed+Esmail;Aspiring+Data+Scientist" alt="Typing SVG"/>
 </a>
 
 <br/>
