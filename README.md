@@ -32,10 +32,12 @@
 
 * 📖 Currently self-studying linear algebra, multivariable calculus and probability & statistics for AI and data science.
 
+<hr>
+
 ### 🖥️ Personal Projects
 
 <table>
-<tr><th>Machine Learning </th><th>Computer Vision</th></tr>
+<tr><th>Machine Learning </th></tr>
 <tr><td>
 
 |Title|Technologies|
@@ -44,7 +46,12 @@
 | [Speech Emotion Recognition](https://github.com/MohEsmail143/speech-emotion-recognition) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=tensorflow) ![Librosa](https://img.shields.io/badge/Librosa-black?style=flat-square&logo=librosa) <br> ![scikit-learn](https://img.shields.io/badge/scikit--learn-black?style=flat-square&logo=scikitlearn) |
 | [Network Anomaly Detection](https://github.com/MohEsmail143/network-anomaly-detection) | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![Jupyter](https://img.shields.io/badge/Jupyter-black?style=flat-square&logo=jupyter) <br> ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) |
 | [Face Recognition](https://github.com/MohEsmail143/face-recognition) | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![Jupyter](https://img.shields.io/badge/Jupyter-black?style=flat-square&logo=jupyter) |
-</td><td>
+
+</td></tr> </table>
+
+<table>
+<tr><th>Computer Vision</th></tr>
+<tr><td>
 
 |Title | Technologies|
 |--|--|
@@ -54,10 +61,12 @@
 | [Image Stitching](https://github.com/MohEsmail143/image-stitching) | ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)  <br>  ![Jupyter](https://img.shields.io/badge/Jupyter-black?style=flat-square&logo=jupyter) |
 | [Road Lane Detection](https://github.com/MohEsmail143/road-lane-detection) | ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)  <br>  ![Jupyter](https://img.shields.io/badge/Jupyter-black?style=flat-square&logo=jupyter) |
 
-</td></tr> </table>
+</td></tr>
+
+</table>
 
 <table>
-<tr><th>CS / SWE</th><th>Mathematical</th></tr>
+<tr><th>CS / SWE</th></tr>
 <tr><td>
 
 |Title | Technologies|
@@ -73,7 +82,11 @@
 | [Simple Fitness Tracker](https://github.com/MohEsmail143/simple-fitness-tracker) | ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java) |
 | [Phonebook](https://github.com/MohEsmail143/phonebook) | ![C](https://img.shields.io/badge/C-black?style=flat-square&logo=c) |
 
-</td><td>
+</td></tr> </table>
+
+<table>
+<tr><th>Mathematical</th></tr>
+<tr><td>
 
 |Title | Technologies|
 |--|--|
@@ -82,7 +95,10 @@
 | [Root Finder](https://github.com/MohEsmail143/root-finder) | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) |
 | [Signal Generator](https://github.com/MohEsmail143/signal-generator) | ![MATLAB](https://img.shields.io/badge/MATLAB-black?style=flat-square&logo=matlab) |
 
-</td></tr> </table>
+</td></tr>
+</table>
+
+<hr>
 
 <details>
 <summary>📈 Stats</summary>
