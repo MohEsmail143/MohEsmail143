@@ -3,6 +3,8 @@
     <img src="https://readme-typing-svg.demolab.com?lines=Mohamed+Esmail;Big+Data+Engineer;Aspiring+Data+Scientist" alt="Typing SVG"/>
 </a>
 
+<br/>
+
 <a href="https://drive.google.com/file/d/1Gh91VRtR58RHkUD7OgQFBNItftXVwJgB/view?usp=sharing">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
@@ -15,6 +17,8 @@
 <a href="mailto:moh.ahmed.esmail.1403@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
+
+<br/>
 
 <a href="https://github.com/MohEsmail143">
     <img src="https://github-stats-alpha.vercel.app/api?username=MohEsmail143&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
