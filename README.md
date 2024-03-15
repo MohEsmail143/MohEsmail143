@@ -71,7 +71,7 @@
 
 |Title | Technologies|
 |--|--|
-| [LeetCode Solutions](https://github.com/MohEsmail143/leetcode-solutions) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome) |
+| [LeetCode Solutions](https://github.com/MohEsmail143/leetcode-solutions) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) <br> ![Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome) |
 | [Huffman Coding](https://github.com/MohEsmail143/huffman-coding) | ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java) |
 | [Page Replacement Algorithms](https://github.com/MohEsmail143/page-replacement-algorithms) | ![C++](https://img.shields.io/badge/C%2B%2B-black?style=flat-square&logo=c%2B%2B) |
 | [Simple Shell](https://github.com/MohEsmail143/simple-shell) | ![C](https://img.shields.io/badge/C-black?style=flat-square&logo=c) |
