@@ -5,16 +5,16 @@
 
 <br/>
 
-<a href="https://drive.google.com/file/d/1Gh91VRtR58RHkUD7OgQFBNItftXVwJgB/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1Gh91VRtR58RHkUD7OgQFBNItftXVwJgB/view?usp=sharing" style="text-decoration: none">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
-<a href="https://bit.ly/3Uxr8Ju">
+<a href="https://bit.ly/3Uxr8Ju" style="text-decoration: none">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin">
 </a>
-<a href="https://www.kaggle.com/mohesmail143">
+<a href="https://www.kaggle.com/mohesmail143" style="text-decoration: none">
     <img src="https://img.shields.io/badge/Kaggle-white?style=flat-square&logo=kaggle">
 </a>
-<a href="mailto:moh.ahmed.esmail.1403@gmail.com">
+<a href="mailto:moh.ahmed.esmail.1403@gmail.com" style="text-decoration: none">
     <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 
