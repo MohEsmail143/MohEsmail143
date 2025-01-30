@@ -5,7 +5,7 @@
 
 <br/>
 
-<a href="https://drive.google.com/file/d/1c8r1cdQpTtUk8_egkOR8xMA-91Y6Lk4b/view?usp=sharing" style="text-decoration: none">
+<a href="https://drive.google.com/file/d/1xHI1-tgWKhp6CXRATxYwjvGIlp3a6WoV/view?usp=sharing" style="text-decoration: none">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
 <a href="https://bit.ly/3Uxr8Ju" style="text-decoration: none">
