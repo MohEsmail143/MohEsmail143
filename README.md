@@ -30,7 +30,7 @@
 
 * 🎓 Recently finished my B.Sc. at the [Faculty of Engineering, Alexandria University](https://eng.alexu.edu.eg/index.php/en/), majoring in Computer and Communications Engineering.
 
-* 📖 Currently self-studying linear algebra, multivariable calculus and probability & statistics for AI and data science.
+* 📖 Currently studying for my M.Sc. in Computer Science at the Georgia Institute of Technology..
 
 <hr>
 
