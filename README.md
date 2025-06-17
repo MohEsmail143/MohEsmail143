@@ -34,6 +34,14 @@
 
 <hr>
 
+### 🎓 OMSCS Project Portfolio
+
+As part of my graduate studies in the [Georgia Tech OMSCS](https://omscs.gatech.edu/) program (with a specialization in Machine Learning), I've worked on a range of academically rigorous and applied machine learning projects.
+
+📁 The portfolio repository is **private** to comply with Georgia Tech's academic integrity policy, but I'm happy to share it upon request for professional, academic, or recruiting purposes.
+
+📩 **To request access**, feel free to connect with me on [LinkedIn](https://linkedin.com/in/mohesmail1403) or email me at `moh.ahmed.esmail.1403@gmail.com`.
+
 ### 🖥️ Personal Projects
 
 <table>
