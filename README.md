@@ -42,6 +42,8 @@ As part of my graduate studies in the [Georgia Tech OMSCS](https://omscs.gatech.
 
 📩 **To request access**, feel free to connect with me on [LinkedIn](https://linkedin.com/in/mohesmail1403) or email me at `moh.ahmed.esmail.1403@gmail.com`.
 
+<hr>
+
 ### 🖥️ Personal Projects
 
 <table>
